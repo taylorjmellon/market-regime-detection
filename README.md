@@ -1,3 +1,4 @@
+![Market Regime Banner](results/regime_banner.png) 
 # market-regime-detection
 Detects and visualizes market regimes using Python (HMM + clustering)
 ![Market Regime Banner](results/regime_banner.png) 
