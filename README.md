@@ -1,7 +1,7 @@
 ![Market Regime Banner](results/regime_banner.png) 
 # market-regime-detection
 Detects and visualizes market regimes using Python (HMM + clustering)
-![Market Regime Banner](results/regime_banner.png) 
+
 # 📈 Market Regime Detection using K-Means Clustering
 
 A quantitative research project that detects **market regimes** (bull, bear, and neutral phases) using **K-Means clustering** on market and volatility data.  
